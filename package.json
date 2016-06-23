@@ -1,0 +1,28 @@
+{
+	"name": "sample-TelerikNEXT",
+	"description": "Telerik ...",
+	"version": "1.0.0",
+	"nativescript": {
+		"id": "com.telerik.TelerikNEXT",
+		"tns-android": {
+			"version": "2.0.0"
+		},
+		"tns-ios": {
+			"version": "2.0.0"
+		}
+	},
+	"dependencies": {
+		"teleriknext-options": "file:options",
+		"nativescript-telerik-ui-pro": "file:../nativescript-ui-pro.tgz",
+		"tns-core-modules": "2.0.1"
+	},
+	"devDependencies": {
+		"babel-traverse": "6.9.0",
+		"babel-types": "6.9.1",
+		"babylon": "6.8.0",
+		"filewalker": "0.1.2",
+		"lazy": "1.0.11",
+		"nativescript-dev-typescript": "^0.3.1",
+		"typescript": "^1.8.9"
+	}
+}

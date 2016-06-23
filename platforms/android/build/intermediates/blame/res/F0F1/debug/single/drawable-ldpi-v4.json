@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Faten\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-ldpi-v4\\splashscreen.png",
+        "source": "C:\\Faten\\platforms\\android\\src\\main\\res\\drawable-ldpi\\splashscreen.png"
+    },
+    {
+        "merged": "C:\\Faten\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\Faten\\platforms\\android\\src\\main\\res\\drawable-ldpi\\icon.png"
+    }
+]
